@@ -1,0 +1,13 @@
+.fa {
+  color: #e7e7e7;
+  font-size: 26px;
+  padding: 4px;
+  cursor: pointer;
+}
+
+.fa-active {
+  color: #686868;
+  font-size: 26px;
+  padding: 4px;
+
+}
